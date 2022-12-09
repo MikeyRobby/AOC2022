@@ -62,6 +62,5 @@ func main(){
     fmt.Printf("highest: %d\n",highest)
     fmt.Printf("secondHighest: %d\n",secondHighest)
     fmt.Printf("thirdHighest: %d\n",thirdHighest)
-   // total := highest+secondHighest+66172
     fmt.Println(highest+secondHighest+thirdHighest)
 }
